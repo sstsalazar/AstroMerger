@@ -1,0 +1,11 @@
+{
+    "source":{
+        "name": "VERITAS"
+    },
+    "directories":[
+        {"input": "/home/sander/Documents/Workspace/AstroMerger/samples/new/VERITAS",
+         "output": "/home/sander/Documents/Workspace/AstroMerger/samples/old/VERITAS"
+        }
+    ]
+}
+ 

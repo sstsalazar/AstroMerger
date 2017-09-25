@@ -1,0 +1,10 @@
+{
+    "source":{
+        "name": "MAGIC"
+    },
+    "directories":[
+        {"input": "/home/sander/Documents/Workspace/AstroMerger/samples/new/MAGIC",
+         "output": "/home/sander/Documents/Workspace/AstroMerger/samples/old/MAGIC"
+        }
+    ]
+}

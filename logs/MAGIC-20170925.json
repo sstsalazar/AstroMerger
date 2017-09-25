@@ -1,0 +1,362 @@
+[
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2012_Perseus.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2017_PKS1510.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_1ES1727+502.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2011_Segue1.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2012_PKS2155.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_OJ287.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2007_Mrk421.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2011_PKS1222.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2006_LSI61303.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_Perseus.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2013_1ES2344+514.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2007_1ES1011.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2015_Crab_Nebula.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_PG1553_mw2008.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_M13.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2013_J1644_57.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_NGC_1275.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_LSI61303.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2011_ScorpiusX1.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_3C_279.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_GRB_090102.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_Mrk421_mw2006.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_Mrk421_flare.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2008_1ES1959_mw.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_HESSJ1857.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_AEaqr.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2006_HESS1813.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2016_PKS1441.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_4C2135.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_S50716.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2016_NGC_1275.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2007_CygnusX1.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2006_Mrk180.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_Mrk421_mw_outburst.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "data.json", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2008_WRBinSys.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2015_Novae.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2008_3C279.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2008_Draco.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2017_V404Cygni.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_4C_5517.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2017_CygnusX1.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_3C58.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_CygnusX3.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_IC310.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_PKS1424+240.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2016_H1722_119.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2008_M87.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_3C454.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2015_1ES0806.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2008_LSI61303_mw.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2017_B1957+20.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_Crabpulsar.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2017_SN2014J.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "log.json", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2016_B0218_357.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2011_Blazars.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_3C66A.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2007_CassiopeiaA.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_Segue1.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2012_B32247.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2013_Magnetars.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2012_M87.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2012_1ES1215.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_Mrk421_Mrk501.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2006_GC.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2012_W_51.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2007_IC443.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_IC_310.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2009_Mrk501_mw2006.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2010_MilagroSNR_G65.fits", 
+        "Status": "NEW"
+    }, 
+    {
+        "Date": "Mon Sep 25 13:15:17 2017", 
+        "File": "MAGIC_2014_IC_310_AA.fits", 
+        "Status": "NEW"
+    }
+]

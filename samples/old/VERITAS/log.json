@@ -1,0 +1,147 @@
+[
+    {
+        "Date": "Fri Sep  1 10:52:07 2017",
+        "File": "1ES0229+200_VERITAS_2009_2012_2014ApJ...782...13A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:08 2017",
+        "File": "1ES0414+009_VERITAS_2008-2011_2012ApJ...755..118A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:09 2017",
+        "File": "1ES0806+524_VERITAS_2006-2008_2009ApJ...690L.126A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:10 2017",
+        "File": "1ES1215+303_VERITAS_2008-2012_2013ApJ...779...92A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:11 2017",
+        "File": "1ES1218+304_VERITAS_2007_2009ApJ...695.1370A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:12 2017",
+        "File": "1ES1218+304_VERITAS_2008-2009-2010ApJ...709L.163A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:13 2017",
+        "File": "Mkn501_VERITAS_2008_2011ApJ...729..2.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:15 2017",
+        "File": "1ES1959_VERITAS_2012.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:16 2017",
+        "File": "1ES2344+514_VERITAS_2007_high_2011ApJ...738..169A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:17 2017",
+        "File": "1ES2344+514_VERITAS_2007_low_2011ApJ...738..169A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:18 2017",
+        "File": "3C66A_VERITAS_2007-2008_high_2009ApJ...693L.104A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:19 2017",
+        "File": "3C66A_VERITAS_2007-2008_low_2009ApJ...693L.104A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:20 2017",
+        "File": "BLLacertae_VERITAS_2011_2013ApJ...762...92A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:21 2017",
+        "File": "Mkn421_VERITAS_2008_highA_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:22 2017",
+        "File": "Mkn421_VERITAS_2008_highB_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:23 2017",
+        "File": "Mkn421_VERITAS_2008_highC_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:24 2017",
+        "File": "Mkn421_VERITAS_2008_low_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:25 2017",
+        "File": "Mkn421_VERITAS_2008_mid_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:26 2017",
+        "File": "Mkn421_VERITAS_2008_veryhigh_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:27 2017",
+        "File": "Mkn421_VERITAS_2008_verylow_2011ApJ...727..129A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:28 2017",
+        "File": "PG1553+113_VERITAS_2010-2012_2014arXiv1411.1439A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:29 2017",
+        "File": "PKS1424+240_VERITAS_2009_2014ApJ...785L..16A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:30 2017",
+        "File": "PKS1424+240_VERITAS_2011_2014ApJ...785L..16A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:31 2017",
+        "File": "PKS1424+240_VERITAS_2013_2014ApJ...785L..16A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:32 2017",
+        "File": "RBS0413_VERITAS_2008-2009_2012ApJ...750...94A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:33 2017",
+        "File": "RGBJ0710+591_VERITAS_2008-2009_2010ApJ...715L..49A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:34 2017",
+        "File": "RXJ0648.7+1516_VERITAS_2010_2011ApJ...742..127A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:35 2017",
+        "File": "VERJ0521+211_VERITAS_2009-2010_2013ApJ...776...69A.txt",
+        "Status": "OK"
+    },
+    {
+        "Date": "Fri Sep  1 10:52:36 2017",
+        "File": "WComae_VERITAS_2008-01-04_2008ApJ...684L..73A.txt",
+        "Status": "OK"
+    }
+]

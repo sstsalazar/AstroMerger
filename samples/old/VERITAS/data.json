@@ -1,0 +1,176 @@
+[
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES0229+200_VERITAS_2009_2012_2014ApJ...782...13A.txt",
+        "Blazar": "1ES0229+200",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/376-1es0229",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/376-1es0229"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES0414+009_VERITAS_2008-2011_2012ApJ...755..118A.txt",
+        "Blazar": "1ES0414+009",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/338-1es0414",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/338-1es0414"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES0806+524_VERITAS_2006-2008_2009ApJ...690L.126A.txt",
+        "Blazar": "1ES0806+524",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/244-1es0806",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/244-1es0806"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES1215+303_VERITAS_2008-2012_2013ApJ...779...92A.txt",
+        "Blazar": "1ES1215+303",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/368-b1215",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/368-b1215"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES1218+304_VERITAS_2007_2009ApJ...695.1370A.txt",
+        "Blazar": "1ES1218+304",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/245-1es1218",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/245-1es1218"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES1218+304_VERITAS_2008-2009-2010ApJ...709L.163A.txt",
+        "Blazar": "1ES1218+304",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/236-could-we-put-in-a-journal-reference-here-",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/236-could-we-put-in-a-journal-reference-here-"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn501_VERITAS_2008_2011ApJ...729..2.txt",
+        "Blazar": "Markarian 501",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/295-501sedquiescentvsoutburst",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/295-501sedquiescentvsoutburst"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES1959_VERITAS_2012.txt",
+        "Blazar": "1ES1959+650",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/357-1es1959lowflux",
+        "Results": "https://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/357-1es1959lowflux"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES2344+514_VERITAS_2007_high_2011ApJ...738..169A.txt",
+        "Blazar": "1ES2344+514 (high)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/296-1es2344-mwl",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/296-1es2344-mwl"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/1ES2344+514_VERITAS_2007_low_2011ApJ...738..169A.txt",
+        "Blazar": "1ES2344+514 (low)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/296-1es2344-mwl",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/296-1es2344-mwl"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/3C66A_VERITAS_2007-2008_high_2009ApJ...693L.104A.txt",
+        "Blazar": "3C66A (high)",
+        "Publication": "https://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/268-could-we-put-in-a-journal-reference-here-",
+        "Results": "https://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/268-could-we-put-in-a-journal-reference-here-"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/3C66A_VERITAS_2007-2008_low_2009ApJ...693L.104A.txt",
+        "Blazar": "3C66A (low)",
+        "Publication": "https://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/268-could-we-put-in-a-journal-reference-here-",
+        "Results": "https://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/268-could-we-put-in-a-journal-reference-here-"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/BLLacertae_VERITAS_2011_2013ApJ...762...92A.txt",
+        "Blazar": "BLLac",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/349-bllac-rapid-flaring",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/349-bllac-rapid-flaring"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_highA_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (high A)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_highB_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (high B)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_highC_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (high C)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_low_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (low)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_mid_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (mid)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_veryhigh_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (very high)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/Mkn421_VERITAS_2008_verylow_2011ApJ...727..129A.txt",
+        "Blazar": "Mrk 421 (very low)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/291-mrk421-2006-2008"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/PG1553+113_VERITAS_2010-2012_2014arXiv1411.1439A.txt",
+        "Blazar": "PG1553+113",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/389-pg1553",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/389-pg1553"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/PKS1424+240_VERITAS_2009_2014ApJ...785L..16A.txt",
+        "Blazar": "PKS1424+240 (2009-2014)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/380-pks1424deep",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/380-pks1424deep"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/PKS1424+240_VERITAS_2011_2014ApJ...785L..16A.txt",
+        "Blazar": "PKS1424+240 (2011-2014)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/380-pks1424deep",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/380-pks1424deep"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/PKS1424+240_VERITAS_2013_2014ApJ...785L..16A.txt",
+        "Blazar": "PKS1424+240 (2013-2014)",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/380-pks1424deep",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/380-pks1424deep"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/RBS0413_VERITAS_2008-2009_2012ApJ...750...94A.txt",
+        "Blazar": "RBS0413",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/318-rbs0413",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/318-rbs0413"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/RGBJ0710+591_VERITAS_2008-2009_2010ApJ...715L..49A.txt",
+        "Blazar": "RGB0710+591",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/251-rgbj0710591",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/251-rgbj0710591"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/RXJ0648.7+1516_VERITAS_2010_2011ApJ...742..127A.txt",
+        "Blazar": "RXJ0648.7+1516",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/324-rxj0648",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/324-rxj0648"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/VERJ0521+211_VERITAS_2009-2010_2013ApJ...776...69A.txt",
+        "Blazar": "VER0521+211",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/364-ver-j0521211",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/364-ver-j0521211"
+    },
+    {
+        "ASCII": "https://veritas.sao.arizona.edu/documents/WComae_VERITAS_2008-01-04_2008ApJ...684L..73A.txt",
+        "Blazar": "WComae",
+        "Publication": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/150-w-comae",
+        "Results": "http://veritas.sao.arizona.edu/veritas-science/veritas-results-mainmenu-72/150-w-comae"
+    }
+]

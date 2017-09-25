@@ -1,0 +1,766 @@
+[
+    {
+        "Article": "Search for very-high-energy gamma-ray emission from the microquasar Cygnus X-1 with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2017_CygnusX1.fits",
+        "Reference": "(2017arXiv170803689M)",
+        "Source": "Cygnus X-1",
+        "Year": "2017"
+    },
+    {
+        "Article": "MAGIC observations of the microquasar V404 Cygni during the 2015 outburst",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2017_V404Cygni.fits",
+        "Reference": "(M. L. Ahnen et al., MNRAS 471, 1688)",
+        "Source": "V404 Cygni",
+        "Year": "2017"
+    },
+    {
+        "Article": "A cut-off in the TeV gamma-ray spectrum of the SNR Cassiopeia A",
+        "Reference": "(2017arXiv170701583M)",
+        "Source": "Cas A",
+        "Year": "2017"
+    },
+    {
+        "Article": "First multi-wavelength campaign on the gamma-ray-loud active galaxy IC 310",
+        "Reference": "(M. L. Ahnen et al., A&A, 603, A25)",
+        "Source": "IC 310",
+        "Year": "2017"
+    },
+    {
+        "Article": "Observations of Sagittarius A* during the pericenter passage of the G2 object with MAGIC",
+        "Reference": "(M. L. Ahnen et al., A&A, 601, A33)",
+        "Source": "Sagittarius A*",
+        "Year": "2017"
+    },
+    {
+        "Article": "Observation of the Black Widow B1957+20 millisecond pulsar binary system with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2017_B1957+20.fits",
+        "Reference": "(2017arXiv170601378M)",
+        "Source": "B1957+20",
+        "Year": "2017"
+    },
+    {
+        "Article": "Very-high-energy gamma-ray observations of the Type Ia Supernova SN 2014J with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2017_SN2014J.fits",
+        "Reference": "(M. L. Ahnen et al., A&A, 602, A98)",
+        "Source": "SN 2014J",
+        "Year": "2017"
+    },
+    {
+        "Article": "MAGIC detection of very high energy gamma-ray emission from the low-luminosity blazar 1ES 1741+196",
+        "Reference": "(2017arXiv170206795M)",
+        "Source": "1ES 1741+196",
+        "Year": "2017"
+    },
+    {
+        "Article": "Multiwavelength observations of a VHE gamma-ray flare from PKS 1510-089 in 2015",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2017_PKS1510.fits",
+        "Reference": "(M. L. Ahnen et al., A&A, 603, A29)",
+        "Source": "PKS 1510-089",
+        "Year": "2017"
+    },
+    {
+        "Article": "Detection of very high energy gamma-ray emission from the gravitationally-lensed blazar QSO B0218+357 with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2016_B0218_357.fits",
+        "Reference": "(M. L. Ahnen et al., A&A, 595, A98)",
+        "Source": "QSO B0218+357",
+        "Year": "2016"
+    },
+    {
+        "Article": "Super-orbital variability of LS I +61 303 at TeV energies",
+        "Reference": "(M. L. Ahnen et al., A&A, 591, A76)",
+        "Source": "LS I +61 303",
+        "Year": "2016"
+    },
+    {
+        "Article": "Investigating the peculiar emission from the new VHE gamma-ray source H1722+119",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2016_H1722_119.fits",
+        "Reference": "(M. L. Ahnen et al., MNRAS 459, 3271-3281)",
+        "Source": "H1722+1197",
+        "Year": "2016"
+    },
+    {
+        "Article": "Very-High-Energy gamma rays from the Universe's middle age: Detection of the z=0.940 blazar PKS 1441+25 with MAGIC",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2016_PKS1441.fits",
+        "Reference": "(M. L. Ahnen et al., ApJL 815,L23)",
+        "Source": "PKS 1441+25",
+        "Year": "2016"
+    },
+    {
+        "Article": "Deep observation of the NGC 1275 region with MAGIC: search of diffuse γ-ray emission from cosmic rays in the Perseus cluster",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2016_NGC_1275.fits",
+        "Reference": "(M. L. Ahnen et al., A&A 589, A33)",
+        "Source": "NGC 1275",
+        "Year": "2016"
+    },
+    {
+        "Article": "Very-high-energy γ-ray observations of novae and dwarf novae with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2015_Novae.fits",
+        "Reference": "(M. L. Ahnen et al., A&A 582, A67)",
+        "Source": "V339 Del",
+        "Year": "2015"
+    },
+    {
+        "Article": "Unprecedented study of the broadband emission of Mrk 421 during flaring activity in March 2010",
+        "Reference": "(J. Aleksić et al., A&A 578, A22)",
+        "Source": "Mrk 421",
+        "Year": "2015"
+    },
+    {
+        "Article": "Measurement of the Crab nebula spectrum over three decades in energy with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2015_Crab_Nebula.fits",
+        "Reference": "(2014arXiv1406.6892M)",
+        "Source": "Crab Nebula",
+        "Year": "2015"
+    },
+    {
+        "Article": "Probing the very-high-energy γ-ray spectral curvature in the blazar PG 1553+113 with the MAGIC telescopes",
+        "Reference": "(J. Aleksić et al., MNRAS 450, 4399-4410)",
+        "Source": "PG 1553+113",
+        "Year": "2015"
+    },
+    {
+        "Article": "MAGIC detection of short-term variability of the high-peaked BL Lac object 1ES 0806+524",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2015_1ES0806.fits",
+        "Reference": "(J. Aleksić et al., MNRAS 451, 5258-5269)",
+        "Source": "1ES 0806+524",
+        "Year": "2015"
+    },
+    {
+        "Article": "MAGIC reveals a complex morphology within the unidentified gamma-ray source HESS J1857+026",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_HESSJ1857.fits",
+        "Reference": "(J. Aleksić et al., A&A 571, A96)",
+        "Source": "HESS J1857+026",
+        "Year": "2014"
+    },
+    {
+        "Article": "First broadband characterization and redshift determination of the VHE blazar MAGIC J2001+439",
+        "Reference": "(J. Aleksić et al., A&A 572, A121)",
+        "Source": "J2001+439",
+        "Year": "2014"
+    },
+    {
+        "Article": "Multiwavelength Observations of Mrk 501 in 2008",
+        "Reference": "(2014arXiv1410.6391M)",
+        "Source": "Mrk 501",
+        "Year": "2014"
+    },
+    {
+        "Article": "Discovery of very high energy gamma-ray emission from the blazar 1ES 0033+595 by the MAGIC telescopes",
+        "Reference": "(2014arXiv1410.7059A)",
+        "Source": "1ES 0033+595",
+        "Year": "2014"
+    },
+    {
+        "Article": "Black Hole lightning due to particle acceleration at sub-horizon scales",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_IC_310.fits",
+        "Reference": "(J. Aleksić et al., Science 346, 1080-1084)",
+        "Source": "IC 310",
+        "Year": "2014"
+    },
+    {
+        "Article": "MAGIC long-term study of the distant TeV blazar PKS 1424+240 in a multiwavelength context",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_PKS1424+240.fits",
+        "Reference": "(J. Aleksić et al., A&A 567, A135)",
+        "Source": "PKS 1424+240",
+        "Year": "2014"
+    },
+    {
+        "Article": "Discovery of TeV gamma-ray emission from the pulsar wind nebula 3C 58 by MAGIC",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_3C58.fits",
+        "Reference": "(J. Aleksić et al., A&A 567, L8)",
+        "Source": "3C 58",
+        "Year": "2014"
+    },
+    {
+        "Article": "MAGIC search for VHE gamma-ray emission from AE Aquarii in a multiwavelength context",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_AEaqr.fits",
+        "Reference": "(J. Aleksić et al., A&A 568, A109)",
+        "Source": "AE Aquarii",
+        "Year": "2014"
+    },
+    {
+        "Article": "MAGIC gamma-ray and multi-frequency observations of flat spectrum radio quasar PKS 1510-089 in early 2012",
+        "Reference": "(J. Aleksić et al., A&A 569, A46)",
+        "Source": "PKS 1510-089",
+        "Year": "2014"
+    },
+    {
+        "Article": "MAGIC observations & multifrequency properties of the Flat Spectrum Radio Quasar 3C 279 in 2011",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_3C_279.fits",
+        "Reference": "(J. Aleksić et al., A&A 567, A41)",
+        "Source": "3C 279",
+        "Year": "2014"
+    },
+    {
+        "Article": "Search for very high energy gamma-rays from the z=0.896 Quasar 4C +55.17 with MAGIC Telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_4C_5517.fits",
+        "Reference": "(J. Aleksić et al., MNRAS 440, 530)",
+        "Source": "4C +55.17",
+        "Year": "2014"
+    },
+    {
+        "Article": "Detection of bridge emission above 50 GeV from the Crab Pulsar with MAGIC Telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_Crabpulsar.fits",
+        "Reference": "(J. Aleksić et al., A&A 565, L12)",
+        "Source": "Crab Pulsar",
+        "Year": "2014"
+    },
+    {
+        "Article": "Contemporaneous observations of the radio galaxy NGC 1275 from radio to very high energy gamma-rays",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_NGC_1275.fits",
+        "Reference": "(J. Aleksić et al., A&A 564, A5)",
+        "Source": "NGC 1275",
+        "Year": "2014"
+    },
+    {
+        "Article": "Discovery of very high energy gamma emission from the blazar 1ES 1727+502 with MAGIC Telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_1ES1727+502.fits",
+        "Reference": "(J. Aleksić et al., A&A 563, A90)",
+        "Source": "1ES 1727+502",
+        "Year": "2014"
+    },
+    {
+        "Article": "Multifrequency studies of the peculiar Quasar 4C +21.35 during the 2010 flaring activity",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_4C2135.fits",
+        "Reference": "(J. Aleksić et al., ApJ 786, 157)",
+        "Source": "4C +21.35",
+        "Year": "2014"
+    },
+    {
+        "Article": "Rapid and multi-band varability of the TeV-bright active nucleus of the galaxy IC 310",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_IC_310_AA.fits",
+        "Reference": "(J. Aleksić et al., A&A 563, A91)",
+        "Source": "IC 310",
+        "Year": "2014"
+    },
+    {
+        "Article": "Optimized dark matter searches in deep observations of Segue 1 with MAGIC",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_Segue1.fits",
+        "Reference": "(J. Aleksić et al., JCAP 02, 008)",
+        "Source": "Segue 1",
+        "Year": "2014"
+    },
+    {
+        "Article": "MAGIC upper limits on the GRB 090102 afterglow",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2014_GRB_090102.fits",
+        "Reference": "(J. Aleksić et al., MNRAS 437, 3103)",
+        "Source": "GRB 090102",
+        "Year": "2014"
+    },
+    {
+        "Article": "The simultaneous low state spectral energy distribution of 1ES 2344+514 from radio to very high energies",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2013_1ES2344+514.fits",
+        "Reference": "(J. Aleksić et al., A&A 556, A67)",
+        "Source": "1ES 2344+514",
+        "Year": "2013"
+    },
+    {
+        "Article": "Very high energy gamma-ray observation of the peculiar transient event Swift J1644+57 with the MAGIC telescopes and AGILE",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2013_J1644_57.fits",
+        "Reference": "(J. Aleksić et al., A&A 552, A112)",
+        "Source": "Swift J1644+57",
+        "Year": "2013"
+    },
+    {
+        "Article": "Observations of the magnetars 4U 0142+61 and 1E 2259+586 with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2013_Magnetars.fits",
+        "Reference": "(J. Aleksić et al., A&A 549, A23)",
+        "Source": "4U 0142+61, 1ES 2259+586",
+        "Year": "2013"
+    },
+    {
+        "Article": "Discovery of VHE -rays from the blazar 1ES 1215+303 with the MAGIC Telescopes and simultaneous multiwavelength observations",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2012_1ES1215.fits",
+        "Reference": "(J. Aleksić et al., A&A 544, 142)",
+        "Source": "1ES 1215+303",
+        "Year": "2012"
+    },
+    {
+        "Article": "MAGIC observations of the giant radio galaxy M87 in a low emission state between 2005 and 2007",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2012_M87.fits",
+        "Reference": "(J. Aleksić et al., A&A 544, 96)",
+        "Source": "M87",
+        "Year": "2012"
+    },
+    {
+        "Article": "High zenith angle observations of PKS 2155-304 with the MAGIC-I Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2012_PKS2155.fits",
+        "Reference": "(J. Aleksić et al., A&A 544, 75)",
+        "Source": "PKS 2155-304",
+        "Year": "2012"
+    },
+    {
+        "Article": "Detection of VHE gamma-rays from HESS J0632+057 during the 2011 February X-Ray Outburst with the MAGIC Telescopes",
+        "Reference": "(J. Aleksić et al., ApJ Lett. 754, 10 )",
+        "Source": "HESS J0632+057",
+        "Year": "2012"
+    },
+    {
+        "Article": "Mrk 421 active state in 2008: the MAGIC view, simultaneous multi-wavelength observations and SSC model constrained",
+        "Reference": "(J. Aleksić et al., A&A 542, 100)",
+        "Source": "Markarian 421",
+        "Year": "2012"
+    },
+    {
+        "Article": "Constraining cosmic rays and magnetic fields in the Perseus galaxy cluster with TeV observations by the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2012_Perseus.fits",
+        "Reference": "(J. Aleksić et al., A&A 541, 99)",
+        "Source": "Perseus Cluster",
+        "Year": "2012"
+    },
+    {
+        "Article": "Morphological and spectral properties of the W51 region measured with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2012_W_51.fits",
+        "Reference": "(J. Aleksić et al., A&A 541, 13)",
+        "Source": "W51",
+        "Year": "2012"
+    },
+    {
+        "Article": "Discovery of VHE gamma-ray emission from the BL Lac object B3 2247+381 with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2012_B32247.fits",
+        "Reference": "(J. Aleksić et al., A&A 539, 118)",
+        "Source": "B3 2247+381",
+        "Year": "2012"
+    },
+    {
+        "Article": "Detection of very high energy gamma-ray emission from NGC 1275 by the MAGIC telescopes",
+        "Reference": "(J. Aleksić et al., A&A Lett. 539, L2)",
+        "Source": "NGC 1275",
+        "Year": "2012"
+    },
+    {
+        "Article": "Detection of the gamma-ray binary LS I +61 303 in a low flux state at Very High Energy gamma-rays with the MAGIC Telescopes in 2009",
+        "Reference": "(J. Aleksić et al., ApJ 746, 80)",
+        "Source": "LS I +61 303",
+        "Year": "2012"
+    },
+    {
+        "Article": "The 2010 very high energy gamma-ray flare and 10 years of multi-wavelength observations of M87",
+        "Reference": "(A. Abramowski et al., ApJ 746, 151)",
+        "Source": "M87",
+        "Year": "2012"
+    },
+    {
+        "Article": "Phase-resolved energy spectra of the Crab Pulsar in the range of 50-400 GeV measured with the MAGIC Telescopes",
+        "Reference": "(J. Aleksić et al., A&A 540, A69)",
+        "Source": "Crab Pulsar",
+        "Year": "2012"
+    },
+    {
+        "Article": "Performance of the MAGIC stereo system obtained with Crab Nebula data",
+        "Reference": "(J. Aleksić et al., APh 35, 7)",
+        "Source": "Crab Nebula",
+        "Year": "2012"
+    },
+    {
+        "Article": "Observations of the Crab Pulsar between 25 and 100 GeV with the MAGIC I Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2011_CrabPulsar_mono.fits",
+        "Reference": "(J. Aleksić et al., ApJ 742, 43)",
+        "Source": "Crab Pulsar",
+        "Year": "2011"
+    },
+    {
+        "Article": "A search for very-high energy gamma-ray emission from Scorpius X-1 with the MAGIC telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2011_ScorpiusX1.fits",
+        "Reference": "(J. Aleksić et al., ApJ Lett. 735, L5)",
+        "Source": "Scorpius X-1",
+        "Year": "2011"
+    },
+    {
+        "Article": "Searches for Dark Matter annihilation signatures in the Segue 1 satellite galaxy with the MAGIC-I telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2011_Segue1.fits",
+        "Reference": "(J. Aleksić et al., JCAP 06, 035)",
+        "Source": "Segue 1",
+        "Year": "2011"
+    },
+    {
+        "Article": "Fermi-LAT Observations of Markarian 421: the Missing Piece of its Spectral Energy Distribution",
+        "Reference": "(A. A. Abdo et al., ApJ 736, 131)",
+        "Source": "Markarian 421",
+        "Year": "2011"
+    },
+    {
+        "Article": "PG 1553+113: five years of observations with MAGIC",
+        "Reference": "(J. Aleksić et al., ApJ 748, 46)",
+        "Source": "PG 1553+113",
+        "Year": "2012"
+    },
+    {
+        "Article": "MAGIC observations and multiwavelength properties of the quasar 3C279 in 2007 and 2009",
+        "Reference": "(J. Aleksić et al., A&A 530, A4)",
+        "Source": "3C279",
+        "Year": "2011"
+    },
+    {
+        "Article": "MAGIC Discovery of Very High Energy Emission from the FSRQ PKS 1222+21",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2011_PKS1222.fits",
+        "Reference": "(J. Aleksić et al., ApJ Lett. 730, L8)",
+        "Source": "PKS 1222+21",
+        "Year": "2011"
+    },
+    {
+        "Article": "Observations of the Blazar 3C 66A with the Magic Telescopes in Stereoscopic Mode",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2011_3C66A.fits",
+        "Reference": "(J. Aleksić et al., ApJ 726, 58)",
+        "Source": "3C 66A",
+        "Year": "2011"
+    },
+    {
+        "Article": "Detection of very high energy gamma-ray emission from the Perseus cluster head-tail galaxy IC 310 by the MAGIC Telescopes",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_IC310.fits",
+        "Reference": "(J. Aleksić et al., ApJ Lett. 723, L207)",
+        "Source": "IC 310",
+        "Year": "2010"
+    },
+    {
+        "Article": "MAGIC Upper Limits for two Milagro-detected, Bright Fermi Sources in the Region of SNR G65.1+0.6",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_MilagroSNR_G65.fits",
+        "Reference": "(J. Aleksić et al., ApJ 725, 1629)",
+        "Source": "1FGL J1954.3+2836, 1FGL J1958.6+2845",
+        "Year": "2010"
+    },
+    {
+        "Article": "MAGIC constraints on gamma-ray emission from Cygnus X-3",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_CygnusX3.fits",
+        "Reference": "(J. Aleksić et al., ApJ 721, 843)",
+        "Source": "Cygnus X-3",
+        "Year": "2010"
+    },
+    {
+        "Article": "Spectral Energy Distribution of Markarian 501: Quiescent State Versus Extreme Outburst",
+        "Reference": "(V. A. Acciari et al., ApJ 729, 2)",
+        "Source": "Markarian 501",
+        "Year": "2011"
+    },
+    {
+        "Article": "Insights Into the High-Energy Gamma-ray Emission of Markarian 501 from Extensive Multifrequency Observations in the Fermi Era",
+        "Reference": "(A. A. Abdo et al., ApJ 727, 129)",
+        "Source": "Markarian 501",
+        "Year": "2011"
+    },
+    {
+        "Article": "Search for an extended VHE gamma-ray emission from Mrk 421 and Mrk 501 with the MAGIC Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_Mrk421_Mrk501.fits",
+        "Reference": "(J. Aleksić et al., A&A 524, A77)",
+        "Source": "Markarian 421, Markarian 501",
+        "Year": "2010"
+    },
+    {
+        "Article": "Gamma-ray excess from a stacked sample of high-frequency peaked blazars observed with the MAGIC telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2011_Blazars.fits",
+        "Reference": "(J. Aleksić et al., ApJ 729, 115)",
+        "Source": "1ES 0333+595, RGB J117+202, B2 1215+30, ...",
+        "Year": "2011"
+    },
+    {
+        "Article": "Search for Very High-Energy Gamma-Ray Emission from Pulsar-PWN Systems with the MAGIC Telescope",
+        "Reference": "(H. Anderhub et al., ApJ 720, 828)",
+        "Source": "Pulsar-PWN Systems",
+        "Year": "2010"
+    },
+    {
+        "Article": "MAGIC TeV Gamma-Ray Observations of Markarian 421 during Multiwavelength Campaigns in 2006",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_Mrk421_mw2006.fits",
+        "Reference": "(J. Aleksić et al., A&A 519, A32)",
+        "Source": "Markarian 421",
+        "Year": "2010"
+    },
+    {
+        "Article": "Simultaneous multi-frequency observation of the unknown redshift blazar PG 1553+113 in March-April 2008",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_PG1553_mw2008.fits",
+        "Reference": "(J. Aleksić et al., A&A 515, A76)",
+        "Source": "PG 1553+113",
+        "Year": "2010"
+    },
+    {
+        "Article": "Correlated X-Ray and Very High Energy Emission in the Gamma-Ray Binary LS I +61 303",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_LSI61303_correlated.fits",
+        "Reference": "(H. Anderhub et al., ApJ Lett. 706, L27)",
+        "Source": "LS I +61 303",
+        "Year": "2009"
+    },
+    {
+        "Article": "MAGIC observation of the GRB 080430 afterglow",
+        "Reference": "(J. Aleksić et al., A&A 517, A5)",
+        "Source": "GRB 080430",
+        "Year": "2009"
+    },
+    {
+        "Article": "Simultaneous Multiwavelength Observation of Mkn501 in a Low State in 2006",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_Mrk501_mw2006.fits",
+        "Reference": "(H. Anderhub et al., ApJ 705, 1624)",
+        "Source": "Markarian 501",
+        "Year": "2009"
+    },
+    {
+        "Article": "MAGIC Gamma-Ray Observation of the Perseus Galaxy Cluster",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2010_Perseus.fits",
+        "Reference": "(J. Aleksić et al., ApJ 710, 634)",
+        "Source": "Perseus Cluster",
+        "Year": "2010"
+    },
+    {
+        "Article": "Discovery of Very High Energy gamma-rays from the blazar S5 0716+714",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_S50716.fits",
+        "Reference": "(H. Anderhub et al., ApJ Lett. 704, L129)",
+        "Source": "S5 0716+714",
+        "Year": "2009"
+    },
+    {
+        "Article": "Suzaku and Multi-wavelength Observations of OJ 287 during the Periodic Optical Outburst in 2007",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_OJ287.fits",
+        "Reference": "(H. Seta et al., Publ. Astr. Soc. Jap. 61)",
+        "Source": "OJ 287",
+        "Year": "2009"
+    },
+    {
+        "Article": "Search for VHE Gamma-ray Emission from the Globular Cluster M13 with the MAGIC Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_M13.fits",
+        "Reference": "(H. Anderhub et al., ApJ 702, 266)",
+        "Source": "M13",
+        "Year": "2009"
+    },
+    {
+        "Article": "Simultaneous Multiwavelength Observations of Markarian 421 During Outburst",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_Mrk421_mw_outburst.fits",
+        "Reference": "(V. A. Acciari et al., ApJ 703, 169)",
+        "Source": "Markarian 421",
+        "Year": "2009"
+    },
+    {
+        "Article": "MAGIC upper limits to the VHE gamma-ray flux of 3C454.3 in high emission state",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_3C454.fits",
+        "Reference": "(H. Anderhub et al., A&A 498, 83)",
+        "Source": "3C 454.3",
+        "Year": "2009"
+    },
+    {
+        "Article": "Discovery of a VHE gamma-ray signal from the 3C 66A/B region",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_3C66A.fits",
+        "Reference": "(E. Aliu et al., ApJ Lett. 692, L29)",
+        "Source": "3C 66A/B",
+        "Year": "2009"
+    },
+    {
+        "Article": "MAGIC upper limits on the VHE gamma-ray emission from the satellite galaxy Willman 1",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_Willman.fits",
+        "Reference": "(E. Aliu et al., ApJ 697, 1299)",
+        "Source": "Willman 1",
+        "Year": "2009"
+    },
+    {
+        "Article": "Observation of Pulsed Gamma-Rays Above 25 GeV from the Crab Pulsar with MAGIC",
+        "Reference": "(E. Aliu et al., Science 322, 1221)",
+        "Source": "Crab Pulsar",
+        "Year": "2008"
+    },
+    {
+        "Article": "The June 2008 Flare of Markarian 421 from Optical to TeV Energies",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_Mrk421_flare.fits",
+        "Reference": "(I. Donnarumma et al., ApJ 691, L13)",
+        "Source": "Markarian 421",
+        "Year": "2009"
+    },
+    {
+        "Article": "First Bounds on the High-Energy Emission from Isolated Wolf-Rayet Binary Systems",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2008_WRBinSys.fits",
+        "Reference": "(E. Aliu et al., ApJ Lett. 685, L71)",
+        "Source": "WR Binary System",
+        "Year": "2008"
+    },
+    {
+        "Article": "Very high energy gamma rays from a distant Quasar: How transparent is the Universe?",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2008_3C279.fits",
+        "Reference": "(J. Albert et al., Science 320, 1752)",
+        "Source": "3C 279",
+        "Year": "2008"
+    },
+    {
+        "Article": "Periodic Very High Energy Gamma-Ray Emission From LS I+61 303 Observed With The MAGIC Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2009_LSI61303.fits",
+        "Reference": "(J. Albert et al., ApJ 693, 303)",
+        "Source": "LS I +61 303",
+        "Year": "2009"
+    },
+    {
+        "Article": "Very-High-Energy Gamma-Ray Observations of a Strong Flaring Activity in M87 in February 2008",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2008_M87.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 685, L23)",
+        "Source": "M87",
+        "Year": "2008"
+    },
+    {
+        "Article": "MAGIC Observations of PG 1553+113 during a Multi-Wavelength Campaign in July 2006",
+        "Reference": "(J. Albert et al., A&A 493, 467)",
+        "Source": "PG 1553+113",
+        "Year": "2009"
+    },
+    {
+        "Article": "Multi-wavelength (radio, X-ray and gamma-ray) observations of the gamma-ray binary LS I +61 303",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2008_LSI61303_mw.fits",
+        "Reference": "(J. Albert et al., ApJ 684, 1351)",
+        "Source": "LS I +61 303",
+        "Year": "2008"
+    },
+    {
+        "Article": "Systematic search for VHE gamma-ray emission from X-ray bright high-frequency BL Lac objects",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/MAGIC_2008_BLLac.fits",
+        "Reference": "(J. Albert et al., ApJ 681, 994)",
+        "Source": "BL Lac",
+        "Year": "2008"
+    },
+    {
+        "Article": "Simultaneous multiwavelength observations of the blazar 1ES1959+650 at a low TeV flux",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2008_1ES1959_mw.fits",
+        "Reference": "(G. Tagliaferri et al., ApJ 679, 1029)",
+        "Source": "1ES1959+650",
+        "Year": "2008"
+    },
+    {
+        "Article": "Upper limit for gamma-ray emission above 140 GeV from the dwarf spheroidal galaxy Draco",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2008_Draco.fits",
+        "Reference": "(J. Albert et al., ApJ 679, 428)",
+        "Source": "dSph Draco",
+        "Year": "2008"
+    },
+    {
+        "Article": "MAGIC Observations of the unidentified Gamma-ray source TeV J2032+4130",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/MAGIC_2008_TeV2032.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 675, L25)",
+        "Source": "TeV J2032+4130",
+        "Year": "2008"
+    },
+    {
+        "Article": "VHE Gamma-Ray Observation of the Crab Nebula and Pulsar with MAGIC",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/MAGIC_2008_Crab.fits",
+        "Reference": "(J. Albert et al., ApJ 674, 1037)",
+        "Source": "Crab Pulsar",
+        "Year": "2008"
+    },
+    {
+        "Article": "Discovery of Very high energy gamma-rays from 1ES1011+496 at z=0.212",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2007_1ES1011.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 667, L21)",
+        "Source": "1ES1011+496",
+        "Year": "2007"
+    },
+    {
+        "Article": "Observation of VHE gamma-rays from Cassiopeia A with the MAGIC telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2007_CassiopeiaA.fits",
+        "Reference": "(J. Albert et al., A&A 474, 937)",
+        "Source": "Cassiopeia A",
+        "Year": "2007"
+    },
+    {
+        "Article": "Discovery of VHE Gamma Radiation from IC 443 with the MAGIC Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2007_IC443.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 664, L87)",
+        "Source": "IC 443",
+        "Year": "2007"
+    },
+    {
+        "Article": "Constraints on the steady and pulsed VHE gamma-ray emission from observation of PSR B1951+32/CTB 80 with the MAGIC Telescope",
+        "Reference": "(J. Albert et al., Astrophys. J. 669, 1143)",
+        "Source": "PSR B1951+32/CTB 80",
+        "Year": "2007"
+    },
+    {
+        "Article": "Variable VHE gamma-ray emission from Markarian 501",
+        "Reference": "(J. Albert et al., ApJ 669, 862)",
+        "Source": "Markarian 501",
+        "Year": "2007"
+    },
+    {
+        "Article": "Discovery of Very High Energy Gamma-Ray Emission from the Low-Frequency-peaked BL Lacertae Object BL Lacertae",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/MAGIC_2007_BLLacertae.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 666, L17)",
+        "Source": "BL Lacertae",
+        "Year": "2007"
+    },
+    {
+        "Article": "Very High Energy Gamma-Ray Radiation From The Stellar-Mass Black Hole Cygnus X-1",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2007_CygnusX1.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 665, L51)",
+        "Source": "Cygnus X-1",
+        "Year": "2007"
+    },
+    {
+        "Article": "Observations of Mkn 421 with the MAGIC Telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2007_Mrk421.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 663, L125)",
+        "Source": "Markarian 421",
+        "Year": "2007"
+    },
+    {
+        "Article": "Observation of very high energy gamma rays from the AGN 1ES 2344+514 in a low emission state with the MAGIC telescope",
+        "Reference": "(J. Albert et al., ApJ 662, 892)",
+        "Source": "1ES 2344+514",
+        "Year": "2007"
+    },
+    {
+        "Article": "First bounds on very high energy gamma-ray emission from Arp 220",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/MAGIC_2007_Arp220.fits",
+        "Reference": "(J. Albert et al., ApJ 658, 245)",
+        "Source": "Arp 220",
+        "Year": "2007"
+    },
+    {
+        "Article": "Detection of VHE radiation from the BL Lac PG 1553+113 with the MAGIC telescope",
+        "Reference": "(J. Albert et al., ApJ Lett. 654, L119)",
+        "Source": "PG 1553+113",
+        "Year": "2007"
+    },
+    {
+        "Article": "Discovery of Very High Energy Gamma-rays from Markarian 180 triggered by an optical outburst",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2006_Mrk180.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 648, L105)",
+        "Source": "Markarian 180",
+        "Year": "2006"
+    },
+    {
+        "Article": "Variable Very High Energy Gamma-ray Emission from the Microquasar LSI +61 303",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2006_LSI61303.fits",
+        "Reference": "(J. Albert et al., Science 312, 1771)",
+        "Source": "LS I +61 303",
+        "Year": "2006"
+    },
+    {
+        "Article": "Discovery of VHE gamma-ray emission from 1ES1218+30.4",
+        "Reference": "(J. Albert et al., ApJ Lett. 642, L119)",
+        "Source": "1ES1218+30.4",
+        "Year": "2006"
+    },
+    {
+        "Article": "Observation of VHE gamma radiation from HESS J1834-087/W41 with the MAGIC telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/MAGIC_2006_HESS1834.fits",
+        "Reference": "(J. Albert et al., ApJ Lett. 643, L53)",
+        "Source": "HESS J1834-087/W41",
+        "Year": "2006"
+    },
+    {
+        "Article": "MAGIC Observations of very high energy gamma-rays from HESS J1813-178",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2006_HESS1813.fits",
+        "Reference": "(J. Albert et al., ApJ Lett 637, L41)",
+        "Source": "HESS J1813-178",
+        "Year": "2006"
+    },
+    {
+        "Article": "Flux upper limit of gamma-ray emission by GRB050713a from MAGIC Telescope obervations",
+        "Reference": "(J. Albert et al., ApJ Lett. 641, L9)",
+        "Source": "GRB050713a",
+        "Year": "2006"
+    },
+    {
+        "Article": "Observation of Gamma Rays from the Galactic Center with the MAGIC telescope",
+        "FITS": "http://vobs.magic.pic.es/fits/mfits/base/MAGIC_2006_GC.fits",
+        "Reference": "(J.Albert et al., ApJ Lett. 638, L101)",
+        "Source": "Galactic Center",
+        "Year": "2006"
+    },
+    {
+        "Article": "Observation of VHE gamma-ray emission from the Active Galactic Nucleus 1ES1959+650 using the MAGIC telecope",
+        "Reference": "(J. Albert et al., ApJ 639, 761)",
+        "Source": "1ES1959+650",
+        "Year": "2006"
+    }
+]
